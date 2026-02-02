@@ -6,3 +6,4 @@ def Perceptron(x1,x2):
 input=[(0,1),(0,0),(1,0),(1,1)]
 for x in input:
     print(x,"->",Perceptron(x[0],x[1]))
+    print("hello")
