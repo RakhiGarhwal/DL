@@ -5,4 +5,9 @@ def Perceptron(x1,x2):
     return 1 if z>= 0 else 0
 input=[(0,1),(0,0),(1,0),(1,1)]
 for x in input:
+<<<<<<< HEAD
     print(x,"->",Perceptron(x[0],x[1]))
+=======
+    print(x,"->",Perceptron(x[0],x[1]))
+    ##print("hello")
+>>>>>>> 07f769afa21330019dde42d7c84e0c39b169789b
