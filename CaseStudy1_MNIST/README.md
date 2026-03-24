@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition using MLP (From Scratch)
+# Handwritten Digit Recognition using MLP 
 
 ## 📌 Objective
 This project implements a Multi-Layer Perceptron (MLP) from scratch using NumPy to classify handwritten digits (0–9) from the MNIST dataset.
